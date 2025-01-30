@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a second year at the University of Oregon studying physics and mathematics. I am interested in research and pursuing a Ph.D in these fields. I have experience with Python, JavaScript, and C. Pursuing projects in chaotical dynamical systems through the math DRP program at the University of Oregon.
+Second year at the University of Oregon studying physics and mathematics. I am interested in research and pursuing a Ph.D in these fields. I am experienced with Python, JavaScript, and C. Currently, I am pursuing projects in chaotical dynamical systems through the math DRP program at the University of Oregon.
 
-¡Hala Madrid!
+I am an avid soccer fan who loves Real Madrid and AC Milan.
 
 
