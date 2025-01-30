@@ -1,4 +1,4 @@
-## Hi there 👋
+## Elliot Molina
 
 <!--
 **elliotm24/elliotm24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a second year at the University of Oregon studying Physics and Mathematics.
